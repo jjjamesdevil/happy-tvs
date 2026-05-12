@@ -349,7 +349,4 @@ export default function TVSShowroomWebsite() {
       </footer>
     </div>
   );
-}
-git remote add origin https://github.com/jjjamesdevil/happy-tvs.git
-git branch -M main
-git push -u origin main
+ }
